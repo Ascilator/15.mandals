@@ -144,7 +144,7 @@ textarea {
 .header .wrapper .menu_nav .menu .menu_link a {
   color: #fff;
 }
-.header .wrapper .menu_nav .menu .menu_link:first-child {
+.header .wrapper .menu_nav .menu .menu_link:nth-child(3) {
   background: #3C2E03;
   color: #f0b000;
   font-weight: 300;

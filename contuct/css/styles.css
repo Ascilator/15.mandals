@@ -144,7 +144,7 @@ textarea {
 .header .wrapper .menu_nav .menu .menu_link a {
   color: #fff;
 }
-.header .wrapper .menu_nav .menu .menu_link:first-child {
+.header .wrapper .menu_nav .menu .menu_link:nth-child(4) {
   background: #3C2E03;
   color: #f0b000;
   font-weight: 300;
@@ -501,4 +501,12 @@ textarea {
 }
 .arrow:hover {
   transform: rotate(360deg);
+}
+
+.title__ {
+  margin: 400px 0 100px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+  color: #fff;
 }
